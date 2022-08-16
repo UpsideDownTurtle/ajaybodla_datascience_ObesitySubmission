@@ -26,6 +26,9 @@ In addition, I also tried to correlate lifestyle choices such as:
 - Cups of Water Drunk
 - Consumption of Alcohol
 
+<h4>Model</h4>
+I used Random Forest Classifier because it is easy to use but still extremely accurate and has a lot of documentation on the internet.
+
 <h4>Datasets</h4>
 
 Using 2 different datasets one that included lifestlye choices and genetic traits and one that only incldued lifestyle choices I trained two 
