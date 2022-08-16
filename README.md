@@ -51,7 +51,7 @@ The most significant factors for Model 2 were (in order):
 - Technology (∼16%)
 - Physical Activity (∼15%)
 
-Using this data we can derive that one of the most important lifestlye changes that one could make is eating more vegetables.
+Using this data we can derive that one of the most important lifestyle changes that one could make is eating more vegetables.
 
 
 
